@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: R.BRINDHA </h3>
-<h3>Register Number: 212222230023</h3>
+<h3>Name: Shalini V </h3>
+<h3>Register Number: 212222240096</h3>
 
 
 <h3>AIM:</h3>
